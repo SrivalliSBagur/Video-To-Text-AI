@@ -17,6 +17,7 @@ def _call_claude(prompt: str, max_tokens: int = 2000) -> str:
 
     # Extract only the first valid JSON object
     # This handles cases where Claude adds extra text after the JSON
+    
     brace_count = 0
     json_start = None
     json_end = None
