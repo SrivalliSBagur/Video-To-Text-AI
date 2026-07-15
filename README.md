@@ -34,6 +34,27 @@ Video URL → Guardrails → yt-dlp → ffmpeg → Whisper → Claude (classify)
 - **AI Summarization:** Claude claude-sonnet-4-6 (Anthropic)
 - **Audio Processing:** yt-dlp + ffmpeg
 
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/Home.png)
+
+### Coding Tutorial Output
+![Coding](screenshots/coding.png)
+
+### Educational Video Output
+![Educational](screenshots/educational.png)
+
+### Music Video Output
+![Music](screenshots/music.png)
+
+### Cooking Video Output
+![Music](screenshots/cooking.png)
+![Music](screenshots/Recipe.png)
+
+### History Sidebar
+![Sidebar](screenshots/sidebar.png)
+
 ## 🚀 Setup & Run
 
 ### 1. Clone and install
