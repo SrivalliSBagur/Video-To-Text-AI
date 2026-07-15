@@ -40,20 +40,20 @@ Video URL → Guardrails → yt-dlp → ffmpeg → Whisper → Claude (classify)
 ![Home](screenshots/Home.png)
 
 ### Coding Tutorial Output
-![Coding](screenshots/coding.png)
+![Coding](screenshots/Coding.png)
 
 ### Educational Video Output
-![Educational](screenshots/educational.png)
+![Educational](screenshots/Educational.png)
 
 ### Music Video Output
-![Music](screenshots/music.png)
+![Music](screenshots/Music.png)
 
 ### Cooking Video Output
-![Music](screenshots/cooking.png)
+![Music](screenshots/Cooking.png)
 ![Music](screenshots/Recipe.png)
 
 ### History Sidebar
-![Sidebar](screenshots/sidebar.png)
+![Sidebar](screenshots/Sidebar.png)
 
 ## 🚀 Setup & Run
 
